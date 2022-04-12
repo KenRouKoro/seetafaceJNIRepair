@@ -64,13 +64,14 @@ public class SeetafaceBuilder {
             sysPathsField.setAccessible(true);
             sysPathsField.set(null, null);
         } catch (Exception e) {
-            e.printStackTrace();
+            logger.error("该JVM并非使用sys_paths参数。");
         }
 
         String[] libs = prop.getProperty("libs", "").split(",");
         for (String lib : libs) {
-            logger.debug("load library: {}", lib);
-            System.loadLibrary(lib);
+            lib = System.getProperty("user.dir")+"/lib/"+lib;
+            logger.info("load library: {}", lib);
+            System.load(lib);
         }
         String bindata = prop.getProperty("bindata.dir");
         logger.debug("bindata dir: {}", bindata);
