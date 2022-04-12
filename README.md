@@ -1,4 +1,9 @@
-# seetafaceJNI
+# SeetafaceJNIRepair
+
+#该项目源自对seetafaceJNI项目的轻度修订而来
+
+#### 起因
+seetafaceJNI源项目已经不适合用于JDK17环境，在对于JNI对象的加载有很大的问题，该项目意在修复这些问题并且提供相对路径支持，方便更好的打包使用seetafaceJNI的项目。
 
 #### 项目介绍
 基于中科院seetaface2进行封装的JAVA人脸识别算法库，支持人脸识别、1:1比对、1:N比对。

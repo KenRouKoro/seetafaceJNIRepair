@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fde2af1-384c-4129-a5d8-e98f25d85c11" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seetafaceJNI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lzw/face/SeetafaceBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lzw/face/SeetafaceBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/seetaface.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/seetaface.properties" afterDir="false" />
-    </list>
+    <list default="true" id="0fde2af1-384c-4129-a5d8-e98f25d85c11" name="Default Changelist" comment="repair Orange Source GitHub project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +189,16 @@
       <workItem from="1563762444811" duration="1654000" />
       <workItem from="1649167046783" duration="3176000" />
       <workItem from="1649170438989" duration="2662000" />
+      <workItem from="1649772651698" duration="355000" />
     </task>
+    <task id="LOCAL-00001" summary="repair Orange Source GitHub project.">
+      <created>1649772962802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649772962802</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -254,6 +251,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="repair Orange Source GitHub project." />
+    <option name="LAST_COMMIT_MESSAGE" value="repair Orange Source GitHub project." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/seetafaceJNI.iml">
